@@ -1,4 +1,4 @@
-# INFO3180 - Lab 3
+# INFO3180 - Lab 3 - Patricia Surf
 
 This is the starter code for Lab 3
 
